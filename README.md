@@ -54,12 +54,7 @@ The goal is to **enable decision-makers to monitor KPIs**, identify growth oppor
 
 ---
 
-## 7. How to Use
-1. Download the Power BI file: **`My First Report.pbix`**  
-2. Place `AdventureWorks.xlsx` and `Subcategory.csv` in the same folder  
-3. Open `.pbix` in **Power BI Desktop**  
-4. Refresh the data connections  
-5. Interact with the dashboard using filters and visuals  
+
 
 ---
 
